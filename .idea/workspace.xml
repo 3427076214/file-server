@@ -20,16 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c45698b-af6b-4ecf-94b7-3a14311c136c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/file-server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BuildLinux.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/123" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/123123.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/file-server.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/natapp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start-server.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,10 +102,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1033" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642598510530">
+    <state x="1033" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642601044959">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1033" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1642598510530" />
+    <state x="1033" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1642601044959" />
     <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1642600104810">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
