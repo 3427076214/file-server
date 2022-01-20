@@ -11,8 +11,10 @@ echo "authtoken is $myauthtoken"
 cd bin
 chmod a+x natapp
 chmod a+x file-server
-cp file-server /
+cp file-server /root/kubernetes-lab/examples/kubernetes-simple/
 
 #nohup command > myout.file 2>&1 &
 nohup ./natapp -authtoken=$myauthtoken &
+
+cd /root/kubernetes-lab/examples/kubernetes-simple
 ./file-server
