@@ -1,5 +1,6 @@
 git clone https://github.com/3427076214/file-server.git
 cd file-server
+git pull
 
 read -t 300 -p "Please input authtoken: " myauthtoken
 echo -e "\n"
