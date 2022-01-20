@@ -17,4 +17,4 @@ cp file-server /root/kubernetes-lab/examples/kubernetes-simple/file-server.exe
 nohup ./natapp -authtoken=$myauthtoken &
 
 cd /root/kubernetes-lab/examples/kubernetes-simple
-./ffile-server.exe
+./file-server.exe
