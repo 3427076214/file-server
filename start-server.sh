@@ -1,3 +1,5 @@
+#curl https://raw.githubusercontent.com/3427076214/file-server/main/init.sh -o init.sh && bash init.sh
+
 git clone https://github.com/3427076214/file-server.git
 cd file-server
 git pull
@@ -9,6 +11,7 @@ echo "authtoken is $myauthtoken"
 cd bin
 chmod a+x natapp
 chmod a+x file-server
+cp file-server /
 
 #nohup command > myout.file 2>&1 &
 nohup ./natapp -authtoken=$myauthtoken &
